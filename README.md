@@ -8,10 +8,11 @@ This code base is a simplified structure of Login using PassportJS.  It demonstr
 
 Where to go from here?  Obviously, we could employ styling and data modelign, then on to JWT.
 
-[x] PassportJS
-[ ] Style CSS
-[ ] Modeling using MongoDB Atlas
-[ ] JWT
+[x] PassportJS  
+[ ] JWT  
+[ ] Style CSS  
+[ ] Modeling using MongoDB Atlas  
+
 
 ## Screenshots
 
@@ -30,16 +31,16 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 ## References
 
-[EJS](https://ejs.co/#about)
+[EJS](https://ejs.co/#about) *Embedded JavaScript templating*   
 
-[ExpressJS](https://expressjs.com/)
+[ExpressJS](https://expressjs.com/) *Fast, unopinionated, minimalist web framework for Node.js*  
 
-[nodejs](https://nodejs.org/en/)
+[nodejs](https://nodejs.org/en/) *JavaScript runtime built on Chrome's V8 JavaScript engine*  
 
 [bscript or bscryptjs](https://passwordhashing.com/BCrypt)
 *bcrypt is a password hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher, and presented at USENIX in 1999.*
 
-[passportJS](http://www.passportjs.org/packages/passport-local/)
+[passportJS](http://www.passportjs.org/packages/passport-local/) *Authentication middleware for Node.js*  
 
 
 # Setting Started
