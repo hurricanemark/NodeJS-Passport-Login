@@ -10,11 +10,12 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 ## Screenshots
 
-[register](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/register.PNG)
+**Register**
+![register] (https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/register.PNG)
 
-[Login](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/login.PNG)
+![Login] (https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/login.PNG)
 
-[index page](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/indexpage.PNG)
+![index page] (https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/indexpage.PNG)
 
 ## References
 
@@ -32,8 +33,8 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 # Setting Started
 
-** Environment ** vsnode
-[^] You need to  install extension for 
+**Environment** vsnode
+[^]You need to  install extension for 
 EJS Language Support!  EJS is the Embedded JavaScript templating language that lets you generate HTML markup with plain JavaScript.
 
 `npm init`
@@ -42,11 +43,11 @@ EJS Language Support!  EJS is the Embedded JavaScript templating language that l
 
 `npm i --save-dev nodemon dotenv`
 
-[^] *bcrypt is used for hashing passwords, ...*
+[^]*bcrypt is used for hashing passwords, ...*
 
 `npm i bcrypt`  
 
-[^] *passport passport-local are used for password authentication.  express-session is for local session, express-flash displays invalid authentication messages*
+[^]*passport passport-local are used for password authentication.  express-session is for local session, express-flash displays invalid authentication messages*
 
 
 `npm i passport passport-local express-session express-flash`
