@@ -44,7 +44,7 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 # Setting Started
 
-**Environment** vsnode
+**Environment** `vscode`
 You need to  install extension for 
 EJS Language Support!  EJS is the Embedded JavaScript templating language that lets you generate HTML markup with plain JavaScript.
 
@@ -70,7 +70,7 @@ EJS Language Support!  EJS is the Embedded JavaScript templating language that l
 
 *method-override alternates POST so we can call app.delete to implement logout*
 
-Then,
+Then,  
 
 - Create the following files:  .env .gitignore
 
@@ -80,8 +80,13 @@ Then,
 .env
 
 node_modules
-```
+```  
 
+- Insert into .env  
+
+```
+SESSION_SECRET=your_secret_could_be_anything_here
+```  
 
 - Edit package.json
 
