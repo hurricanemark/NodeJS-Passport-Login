@@ -4,7 +4,7 @@
 
 ## Description
 
-This code base is a simplified structure of Login using PassportJS.  It demonstrate the implementation of passport-local, passort-session with expressJS, NodeJS, EJS.  It is without CSS.  It is without the backend database, content management.  
+This code is a simplified structure of Login using PassportJS.  It demonstrates the implementation of passport-local, express-session with expressJS, NodeJS, EJS.  It is without CSS.  It is without the backend database, content management.  
 
 Where to go from here?  Obviously, we could employ styling and data modelign, then on to JWT.
 
