@@ -96,3 +96,5 @@ SESSION_SECRET=your_secret_could_be_anything_here
 - To start the express server on the terminal:
 
 `npm run devStart`
+
+- Open browser to http://localhost:3000
