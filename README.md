@@ -15,15 +15,17 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 ## Screenshots
 
-**Register** [^1]
+**Register**
 ![register](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/register.PNG)
 
+---
 
-**Login** [^1]
+**Login**
 ![Login](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/login.PNG)
 
+---
 
-**Index**[^1]
+**Index**
 ![index page](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/indexpage.PNG)
 
 ## References
@@ -52,21 +54,21 @@ EJS Language Support!  EJS is the Embedded JavaScript templating language that l
 
 `npm i --save-dev nodemon dotenv`
 
-[^]:*bcrypt is used for hashing passwords, ...*
+*bcrypt is used for hashing passwords, ...*
 
 `npm i bcrypt`  
 
-[^1]:*passport passport-local are used for password authentication.  express-session is for local session, express-flash displays invalid authentication messages*
+*passport passport-local are used for password authentication.  express-session is for local session, express-flash displays invalid authentication messages*
 
 
 `npm i passport passport-local express-session express-flash`
 
-[^1]:*Logic for passport,...,express-flash will be written in passport-config.js*
+*Logic for passport,...,express-flash will be written in passport-config.js*
 
 
 `npm i method-override`
 
-[^1]:*method-override alternates POST so we can call app.delete to implement logout*
+*method-override alternates POST so we can call app.delete to implement logout*
 
 Then,
 
