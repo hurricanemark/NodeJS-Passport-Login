@@ -8,6 +8,14 @@ This code base is a simplified structure of Login using PassportJS.  It demonstr
 
 Where to go from here?  Obviously, we could employ styling and data modelign, then on to JWT.
 
+## Screenshots
+
+[register!]('./assets/img/register.png)
+
+[Login!]('./assets/img/login.png')
+
+[index page!](./assets/img/indexpage.png)
+
 ## References
 
 [EJS!](https://ejs.co/#about)
