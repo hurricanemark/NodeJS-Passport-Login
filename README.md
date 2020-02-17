@@ -37,7 +37,7 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 [nodejs](https://nodejs.org/en/)
 
 [bscript or bscryptjs](https://passwordhashing.com/BCrypt)
-[^1]:*bcrypt is a password hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher, and presented at USENIX in 1999.*[^]
+*bcrypt is a password hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher, and presented at USENIX in 1999.*
 
 [passportJS](http://www.passportjs.org/packages/passport-local/)
 
