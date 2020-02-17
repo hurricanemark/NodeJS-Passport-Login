@@ -10,11 +10,11 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 ## Screenshots
 
-[register!]('./assets/img/register.png)
+[register!](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/register.PNG)
 
-[Login!]('./assets/img/login.png')
+[Login!](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/login.PNG)
 
-[index page!](./assets/img/indexpage.png)
+[index page!](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/indexpage.PNG)
 
 ## References
 
