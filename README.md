@@ -15,17 +15,17 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 
 ## Screenshots
 
-**Register**
+**Register**  
 ![register](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/register.PNG)
 
 ---
 
-**Login**
+**Login**  
 ![Login](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/login.PNG)
 
 ---
 
-**Index**
+**Index**  
 ![index page](https://github.com/hurricanemark/NodeJS-Passport-Login/blob/master/assets/img/indexpage.PNG)
 
 ## References
