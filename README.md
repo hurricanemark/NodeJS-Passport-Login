@@ -43,7 +43,7 @@ Where to go from here?  Obviously, we could employ styling and data modelign, th
 [passportJS](http://www.passportjs.org/packages/passport-local/) *Authentication middleware for Node.js*  
 
 
-# Setting Started
+# Getting Started
 
 **Environment** `vscode`
 You need to  install extension for 
