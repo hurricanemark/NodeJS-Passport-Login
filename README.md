@@ -98,3 +98,44 @@ SESSION_SECRET=your_secret_could_be_anything_here
 `npm run devStart`
 
 - Open browser to http://localhost:3000
+
+
+## Docker Build, Deploy, and Run
+
+Verify that the application is running after you cloned it.  Hint, create *.env* file
+and enter the followings:
+
+```
+NODE_ENV=development
+SESSION_SECRET=Anything you desirer here
+PORT=3322
+```
+
+### Build Docker
+
+Replace 'hurricanemark' with your dockerhub's username
+
+```
+docker build -t hurricanemark/nodejs-passport-login:1.0 .
+```
+
+**List docker image**
+
+Find the IMAGE ID of the newly build docker image
+
+```
+docker image ls
+```
+
+### Run Docker
+
+```
+docker run -p 9999:8080 <IMAGE_ID>
+```
+
+Expected console output:
+`
+> node server.js
+
+Listening on port 3322
+`
