@@ -22,7 +22,7 @@ ENV SESSION_SECRET='blue chip blue chips'
 
 # app port.  Remember to assign forward port to the host machine 
 # that is other than 8080
-EXPOSE 8080
+EXPOSE 3322
 
 # run the app
-CMD ["npm", "start"]
+CMD ["npm", "run", "start"]
