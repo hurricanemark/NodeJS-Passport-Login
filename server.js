@@ -102,4 +102,8 @@ app.delete('/logout', (req, res) => {
 	req.logout() //passport takes care of this.  We donot need to implement it.
 	res.redirect('/login')
 })
-app.listen(3000)
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log('Listening on port ' + PORT);
+});

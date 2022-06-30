@@ -2,15 +2,16 @@
     "name": "passportlogin",
     "version": "1.0.0",
     "description": "www.youtube.com/eatch?v=-RCnNyDOL-s&t=628s",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
-        "devStart": "nodemon server.js"
+        "devStart": "nodemon server.js",
+        "start": "node server.js"
     },
     "author": "Mark Nguyen",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.0.0",
-        "ejs": "^3.0.1",
+        "ejs": "^3.1.8",
         "express": "^4.17.1",
         "express-flash": "0.0.2",
         "express-session": "^1.17.0",
