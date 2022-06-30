@@ -119,6 +119,12 @@ Replace 'hurricanemark' with your dockerhub's username
 docker build -t hurricanemark/nodejs-passport-login:1.0 .
 ```
 
+Then, run the application:
+
+```
+npm start
+```
+
 **List docker image**
 
 Find the IMAGE ID of the newly build docker image
