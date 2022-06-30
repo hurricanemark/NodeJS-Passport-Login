@@ -140,8 +140,8 @@ docker run -p 9999:8080 <IMAGE_ID>
 ```
 
 Expected console output:
-`
+```
 > node server.js
 
 Listening on port 3322
-`
+```
